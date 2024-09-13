@@ -11,9 +11,4 @@ footer {
   background-color: #fcd8d4;
 }
 
-.audio-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh; /* Atur tinggi sesuai kebutuhan */
-}
+
